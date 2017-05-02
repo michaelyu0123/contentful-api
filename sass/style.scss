@@ -1,0 +1,63 @@
+.my-btn{
+	border: none;
+	min-width:100px;
+	height:40px;
+	border-radius:10px;
+	margin: 5px 10px;
+	&.block-btn{
+		display:block;
+		margin:5px auto;
+	}
+}
+
+.CategoryTypeList{
+	.random-img{
+		width:250px;
+		display:block;
+		margin:20px auto;
+	}
+}
+.category{
+	.icon{
+		width:200px;
+	}
+}
+
+.brand{
+	.logo{
+		width:200px;
+		height:200px;
+		margin:10px auto;
+		.helper {
+		    display: inline-block;
+		    height: 100%;
+		    vertical-align: middle;
+		}
+		img{
+			width:100%;
+			vertical-align:middle;
+			max-width:200px;
+			max-height:200px;
+		}
+	}
+}
+
+.product{
+	.product-image{
+		width:200px;
+		height:200px;
+		margin:10px auto;
+		.helper {
+		    display: inline-block;
+		    height: 100%;
+		    vertical-align: middle;
+		}
+		img{
+			width:100%;
+			vertical-align:middle;
+			max-width:200px;
+			max-height:200px;
+		}
+	}
+}
+
